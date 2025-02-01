@@ -1,0 +1,7 @@
+users:
+  userA:
+    email: user@example.com
+    password: password
+  userB:
+    email: user@example.com
+    password: password

@@ -1,0 +1,11 @@
+reports/allure/
+node_modules/
+allure-results/
+test-results/
+reports/cucumber/
+.idea/
+metrics/results/comuns/default/
+logs/
+data/images/screenshots/
+data/images/diffs/
+data/images/diffs-to-locate-area/

@@ -1,0 +1,145 @@
+Folder PATH listing
+Volume serial number is 6E09-EB26
+C:.
+|   config_users.example.yaml
+|   config_users.yaml
+|   package.json
+|   playwright.config.ts
+|   README.md
+|   tsconfig.json
+|
++---actions
++---assertions
++---config
++---constants
+|       globals.ts
+|
++---counters
+|       user_counter.db
+|
++---data
+|   +---files
+|   +---images
+|   |   +---baseline
+|   |   |   |   bmake_resized_images.bat
+|   |   |   |   INFO.txt
+|   |   |   |   PLACEHOLDER
+|   |   |   |
+|   |   |   \---1180x800
+|   |   |           baseline-skills-btn-desired-skills.png
+|   |   |           baseline-skills-btn-next.png
+|   |   |           baseline-skills-nr-equipas.png
+|   |   |           baseline-skills-nr-jogadores.png
+|   |   |           baseline-skills.png
+|   |   |           baseline-sports-after-registration.png
+|   |   |           baseline-sports-after-registration2.png
+|   |   |           baseline-sports-futsal.png
+|   |   |           baseline-sports-soccer.png
+|   |   |           baseline-sports-tennis.png
+|   |   |           baseline-sports.png
+|   |   |
+|   |   +---capture
+|   |   |       PLACEHOLDER
+|   |   |
+|   |   +---diffs
+|   |   |       diff_2025_01_31_20_54_09_955_.png
+|   |   |       diff_2025_02_01_10_26_31_095_.png
+|   |   |       diff_2025_02_01_10_26_33_369_.png
+|   |   |       PLACEHOLDER
+|   |   |
+|   |   +---diffs-to-locate-area
+|   |   |       diff_2025_02_01_10_42_23_995_.png
+|   |   |       diff_2025_02_01_10_42_26_240_.png
+|   |   |       PLACEHOLDER
+|   |   |
+|   |   \---screenshots
+|   |           PLACEHOLDER
+|   |           screenshot_2025_01_31_17_28_44_653_.png
+|   |           screenshot_2025_01_31_17_30_03_484_.png
+|   |           screenshot_2025_01_31_20_54_09_594_.png
+|   |
+|   \---media
++---devops
++---features
+|       application.feature
+|
++---fixtures
+|       steps_fixtures.ts
+|
++---helpers
+|       AsciiHelper.ts
+|       DateHelper.ts
+|       FitGlassPaneHelper.ts
+|       ImageHelper.ts
+|       StorageHelper.ts
+|
++---hooks
+|       hooks_common.ts
+|       hooks_reports.ts
+|
++---integrations
++---locators
+|       locators_ipmi.ts
+|
++---loggers
+|       TestResult.ts
+|       WinstonLogger.ts
+|
++---logs
+|       .f029a5c0d14affed087b1ba3e5767523bac01487-audit.json
+|       2025-02-01-results.log
+|
++---managers
+|       user_credentials_manager.ts
+|
++---metrics
+|   |   base.css
+|   |   base.js
+|   |   index.html
+|   |   metrics.json.convertMetricsIntoTimeSeriesMonthsOfTheYear.json
+|   |   README.MD
+|   |   v1.html
+|   |   v2.html
+|   |   v3.html
+|   |
+|   +---charts
+|   |       chart.js
+|   |       chartjs-adapter-date-fns@3.0.0
+|   |
+|   +---libs
+|   |   \---charts
+|   |           chart.js
+|   |           chartjs-adapter-date-fns@3.0.0
+|   |
+|   +---result-server.js
+|   |       results-server.js
+|   |
+|   \---results
+|       \---comuns
+|           \---default
+|                   metrics.js
+|                   metrics.json
+|                   metrics.json.convertMetricsIntoTimeSeriesMonthsOfTheYear.json
+|
++---pages
+|       BasePage.ts
+|       HomePage.ts
+|       LoginPage.ts
+|       RegistrationPage.ts
+|       SkillsPage.ts
+|
++---pom
+|       PLACEHOLDER
+|       pom_intent_sharing.ts
+|
++---readme
++---reports
++---steps
+|       steps_application.ts
+|
++---test-results
+|       .last-run.json
+|
+\---viewHolders
+        vh_scenario.ts
+
